@@ -13,7 +13,8 @@ Project Organization
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── raw            <- The original, immutable data dump.
+    │   └── test           <- Data for tests.
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
